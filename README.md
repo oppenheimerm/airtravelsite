@@ -1,0 +1,1 @@
+#Django responsive website built with plain html, css and javascript -UsingFlex & CSS Grid Layout
